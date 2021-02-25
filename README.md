@@ -6,10 +6,10 @@
 小貓熊超級可愛!!(小貓熊控) <br> 
 **注意!小貓熊不是浣熊也不是狸貓** <br> 
 ![小貓熊](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7JuCoLDAoMii19qcZlpjdRhTrurb-EAueA&usqp=CAU)
-```C
+ ```C
 #inclube <stdio.h>
 int main()
 {
   printf("Hello~~\n");
 }
-```
+ ```
