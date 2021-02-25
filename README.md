@@ -4,5 +4,5 @@
 我是陳煦茗，是一個非常喜歡遊戲的阿宅
 ## 重要的事情
 小貓熊超級可愛!!(小貓熊控) <br> 
-注意!小貓熊**不是**浣熊**也不是**狸貓
+**注意!小貓熊不是浣熊也不是狸貓** <br> 
 ![小貓熊](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7JuCoLDAoMii19qcZlpjdRhTrurb-EAueA&usqp=CAU)
