@@ -7,7 +7,7 @@
 **注意!小貓熊不是浣熊也不是狸貓** <br> 
 ![小貓熊](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7JuCoLDAoMii19qcZlpjdRhTrurb-EAueA&usqp=CAU)
 ```C
-#inclub <studio.h>
+#inclube <studio.h>
 int main()
 {
  printf("Hello~~");
